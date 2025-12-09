@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy
 **Tags:** Array, Hash Table
-**URL:** https://leetcode.com/problems/two-sum/submissions/1812586116/
+**URL:** https://leetcode.com/problems/two-sum/
 
 ## Problem
 
