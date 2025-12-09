@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium
 **Tags:** Array, Hash Table, Counting
-**URL:** https://leetcode.com/problems/count-special-triplets/submissions/1851500331/?envType=daily-question&envId=2025-12-09
+**URL:** https://leetcode.com/problems/count-special-triplets/?envType=daily-question&envId=2025-12-09
 
 ## Problem
 
