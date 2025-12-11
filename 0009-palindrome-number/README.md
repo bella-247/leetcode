@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy
 **Tags:** Math
-**URL:** https://leetcode.com/problems/palindrome-number/
+**URL:** https://leetcode.com/problems/palindrome-number/submissions/1852874740/
 
 ## Problem
 
