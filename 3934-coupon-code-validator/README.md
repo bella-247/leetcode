@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy
 **Tags:** Array, Hash Table, String, Sorting
-**URL:** https://leetcode.com/problems/coupon-code-validator/?envType=daily-question&envId=2025-12-13
+**URL:** https://leetcode.com/problems/coupon-code-validator/submissions/1857520092/?envType=daily-question&envId=2025-12-13
 
 ## Problem
 
