@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy
 **Tags:** String
-**URL:** https://leetcode.com/problems/length-of-last-word/
+**URL:** https://leetcode.com/problems/length-of-last-word/description/
 
 ## Problem
 
