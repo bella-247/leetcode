@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy
 **Tags:** Tree, Depth-First Search, Breadth-First Search, Binary Tree
-**URL:** https://leetcode.com/problems/maximum-depth-of-binary-tree/description/?envType=problem-list-v2&envId=binary-tree
+**URL:** https://leetcode.com/problems/maximum-depth-of-binary-tree/?envType=problem-list-v2&envId=binary-tree
 
 ## Problem
 
