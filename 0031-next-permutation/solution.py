@@ -21,7 +21,7 @@ class Solution:
                 break
 
         if index == -1:
-            nums.sort()
+            self.reverse(0, n)
 
         else:
             self.reverse(nums, index + 1, n)
